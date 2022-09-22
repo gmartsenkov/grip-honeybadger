@@ -1,0 +1,15 @@
+name: grip-honeybadger
+version: 0.1.0
+
+authors:
+  - Georgi Martsenkov <g.martsenkov@gmail.com>
+
+dependencies:
+  grip:
+    github: grip-framework/grip
+  honeybadger:
+    github: honeybadger-io/honeybadger-crystal
+
+crystal: 1.5.0
+
+license: MIT
